@@ -1,0 +1,9 @@
+{"ticket": {
+    "ticketNumber": "00003630",
+    "trainNumber": "IC 72100",
+    "trainName": "B-SuperPromo:1xNORMAL",
+    "departure": {
+      "station": "Warszawa Wschodnia",
+      "time": "2025-10-15T11:21:00",
+      "platform": "B"
+    }}}

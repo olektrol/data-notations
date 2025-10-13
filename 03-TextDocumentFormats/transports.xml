@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <car>
+        <size>big</size>
+        <seats>5</seats>
+        <wheels>4<wheels>
+        <speed>medium</speed> 
+        <atributes>
+            
+
+        </atributes>
+    </car>
+    <motorcycle></motorcycle>
+    <bus></bus>
+</transports>

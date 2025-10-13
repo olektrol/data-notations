@@ -11,6 +11,28 @@
         ]
     },
     {
+        "name": "Puma",
+        "founded": 1948,
+        "headquarters": "Herzogenaurach, Germany",
+        "employees": 14000,
+        "products": [
+          "Sportswear",
+          "Footwear",
+          "Accessories"
+        ]
+      },
+      {
+        "name": "New Balance",
+        "founded": 1906,
+        "headquarters": "Boston, Massachusetts, USA",
+        "employees": 22000,
+        "products": [
+          "Sportswear",
+          "Footwear",
+          "Accessories"
+        ]
+      },
+    {
         "name": "Adidas",
         "founded": 1949,
         "headquarters": "Herzogenaurach, Germany",
@@ -54,4 +76,5 @@
             "Accessories"
         ]
     }
+
 ]
